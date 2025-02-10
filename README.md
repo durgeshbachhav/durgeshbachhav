@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://durgesh-bachhav.vercel.app/](https://durgesh-bachhav.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://durgeshbachhav.vercel.app/](https://durgeshbachhav.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@bachhavdurgesh123](https://medium.com/@bachhavdurgesh123)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bachhavdurgesh123@gmail.com**
 
-- 📄 Know about my experiences [https://durgesh-bachhav.vercel.app/](https://durgesh-bachhav.vercel.app/)
+- 📄 Know about my experiences [https://durgeshbachhav.vercel.app/](https://durgeshbachhav.vercel.app/)
 
 - ⚡ Fun fact **I'm basically a professional Googler at this point!**
 
