@@ -80,15 +80,6 @@ const durgesh = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🔥 **Starred Repository** (2000+ ⭐)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=durgeshbachhav&repo=your-popular-repo&theme=tokyonight&show_owner=true)](https://github.com/durgeshbachhav/your-popular-repo)
-
-</div>
-
 <table align="center">
 <tr>
 <td width="50%">
