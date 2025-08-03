@@ -133,7 +133,7 @@ const durgesh = {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshbachhav&theme=tokyonight)](https://github.com/durgeshbachhav)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshbachhav&theme=tokyonight)](https://github.com/ui-layouts/uilayouts)
 
 </div>
 
