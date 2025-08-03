@@ -80,6 +80,48 @@ const durgesh = {
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🔥 **Starred Repository** (2000+ ⭐)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=durgeshbachhav&repo=your-popular-repo&theme=tokyonight&show_owner=true)](https://github.com/durgeshbachhav/your-popular-repo)
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚀 **Top Projects**
+- **[Project Name 1](https://github.com/durgeshbachhav/project1)** - Brief description of your amazing project
+  <br>🛠️ `React` `Node.js` `MongoDB`
+  
+- **[Project Name 2](https://github.com/durgeshbachhav/project2)** - Another cool project description
+  <br>🛠️ `Next.js` `TypeScript` `PostgreSQL`
+
+- **[Project Name 3](https://github.com/durgeshbachhav/project3)** - Third awesome project
+  <br>🛠️ `React Native` `Express` `MySQL`
+
+</td>
+<td width="50%">
+
+### 🎯 **Recent Work**
+- **[Latest Project](https://github.com/durgeshbachhav/latest)** - What you're currently building
+  <br>🛠️ `Next.js` `Appwrite` `Tailwind`
+  
+- **[Cool Animation Project](https://github.com/durgeshbachhav/animations)** - CSS/JS animations showcase
+  <br>🛠️ `HTML5` `CSS3` `JavaScript`
+
+- **[Open Source Contribution](https://github.com/some-org/project)** - Your contribution to community
+  <br>🛠️ `Various Technologies`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -92,6 +134,77 @@ const durgesh = {
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshbachhav&theme=tokyonight)](https://github.com/durgeshbachhav)
+
+</div>
+
+---
+
+## 🎨 Cool Animations & Widgets
+
+<div align="center">
+
+### 🐍 Snake eating my contributions
+![Snake animation](https://raw.githubusercontent.com/durgeshbachhav/durgeshbachhav/output/github-contribution-grid-snake-dark.svg)
+
+### ⚡ Dynamic GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 📈 Coding Time This Week
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Current Goals] --> B[Master Next.js 14]
+    A --> C[Contribute to OSS]
+    A --> D[Build SaaS Products]
+    A --> E[Learn Web3]
+    
+    B --> F[App Router]
+    C --> G[React Ecosystem]
+    D --> H[Full Stack Apps]
+    E --> I[Smart Contracts]
+```
+
+</div>
+
+**🔭 What I'm Working On:**
+- 🚀 Building a revolutionary SaaS platform
+- 🎨 Creating reusable React component library
+- 📱 Developing a React Native mobile app
+- 🤖 Exploring AI/ML integration in web apps
+
+**🌱 Currently Learning:**
+- Next.js 14 App Router & Server Components
+- GraphQL & Apollo Client
+- Docker & Kubernetes
+- Web3 & Blockchain Development
+
+---
+
+## 🔥 Streak & Achievements
+
+<div align="center">
+
+### 🎯 **Developer Achievements**
+![](https://img.shields.io/badge/🏆_2000+_GitHub_Stars-FFD700?style=for-the-badge)
+![](https://img.shields.io/badge/📝_50+_Medium_Articles-00AB6C?style=for-the-badge)
+![](https://img.shields.io/badge/🚀_20+_Live_Projects-FF6B6B?style=for-the-badge)
+![](https://img.shields.io/badge/💼_3+_Years_Experience-4ECDC4?style=for-the-badge)
+
+### 📊 **Coding Metrics**
+![](https://img.shields.io/badge/Languages_Known-10+-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Projects_Completed-50+-blue?style=flat-square)
+![](https://img.shields.io/badge/Coffee_Consumed-∞-brown?style=flat-square)
 
 </div>
 
